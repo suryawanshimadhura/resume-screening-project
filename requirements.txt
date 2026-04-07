@@ -6,3 +6,4 @@ nltk
 matplotlib
 docx2txt
 PyPDF2
+pdfminer.six
