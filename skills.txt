@@ -1,0 +1,12 @@
+python
+machine learning
+data science
+sql
+deep learning
+nlp
+pandas
+numpy
+tensorflow
+tableau
+power bi
+statistics
